@@ -1,10 +1,5 @@
 ﻿//Task_04 Найти расстояние между точками в пространстве 2D/3D
-//Console.Write("input number A for 2D: ");
-//int a_2d = int.Parse(Console.ReadLine());
 
-//Console.Write("input number B for 2D: ");
-//int b_2d = int.Parse(Console.ReadLine());
-//Console.Write("Difference: " + (Math.Sqrt(a_2d - b_2d)));
 double ax = new Random().Next(-100, 100);
 double ay = new Random().Next(-100, 100);
 double az =  new Random().Next(-100, 100);
